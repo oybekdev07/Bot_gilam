@@ -1,0 +1,10 @@
+.env
+service-account*.json
+*.json.key
+__pycache__/
+.vercel/
+.venv/
+data/
+*.db
+*.db-wal
+*.db-shm
